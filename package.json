@@ -1,0 +1,11 @@
+{
+  "name": "milestonesys-design-guide",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "fractal.cmd start --sync"
+  },
+  "dependencies": {
+    "@frctl/fractal": "^1.1.7",
+    "@frctl/mandelbrot": "^1.2.1"
+  }
+}
