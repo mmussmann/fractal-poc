@@ -2,7 +2,7 @@
   "name": "milestonesys-design-guide",
   "version": "0.1.0",
   "scripts": {
-  	"build": "fractal build",
+  	"build": "fractal1 build",
     "start": "fractal.cmd start --sync"
   },
   "dependencies": {
