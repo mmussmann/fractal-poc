@@ -10,3 +10,9 @@ deploy:
   local_dir: build/
   on:
       branch: master
+notifications:
+  email:
+    recipients:
+      - mama@milestone.dk
+    on_success: change
+    on_failure: always
